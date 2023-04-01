@@ -5,3 +5,8 @@ h1 {
     font-family: Helvetica, "Times New Roman", sans-serif;
     text-align: center;
 }
+
+.list {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
