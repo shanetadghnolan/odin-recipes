@@ -6,6 +6,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    color: black;
+    background-color: yellowgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 .list {
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -19,3 +25,4 @@ h1 {
 .carb {
     text-align: left;
 }
+
