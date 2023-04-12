@@ -30,3 +30,13 @@ p {
     font-size: 40px;
 }
 
+.link {
+    font-weight: 50;
+    font-family: Impact, sans-serif;
+}
+
+a {
+    text-align: right;
+    font-weight: 100;
+    font-family: Georgia, Times, 'Times New Roman', serif
+}
